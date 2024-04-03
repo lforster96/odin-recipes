@@ -1,0 +1,22 @@
+/*
+#Fontsize
+    {
+        font-size: 28px;
+        font-family: Helvetic, Times New Roman, sans-serif;
+    }
+*/
+.firstelement, .secondelement
+    {
+        font-size: 28px;
+        font-family: Helvetic, Times New Roman, sans-serif;
+    }
+.firstelement
+    {
+        background-color: black;
+        color: black;
+        font-weight: 800;
+    }
+.secondelement
+    {
+        background-color: yellow;
+    }
